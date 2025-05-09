@@ -1,1 +1,1 @@
-# IntrCompUsandpPython
+# IntrCompUsandoPython
