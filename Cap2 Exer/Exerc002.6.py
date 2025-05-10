@@ -5,6 +5,9 @@ como a primeiro e a última palavras em palavras(min,max), na ordem do dicionár
 sorted(organiza a lista em ordem alfabética)
 '''
 palavras = ['taco', 'bola', 'celeiro', 'cesta', 'peteca']
+contido = 'gato' not in palavras  # verifica se gato não está dentro da lista
+print(contido)
 print(min(palavras))
 print(max(palavras))
-print(sorted(palavras))
+print(sorted(palavras))  # organiza a lista em ordem alfabética
+print(len(palavras))  # mostra o tamanho da lista 5 caracteres
