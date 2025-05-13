@@ -135,3 +135,4 @@ Calcule e imprima o comprimento da string "OpenAI".
 Exercício 2:
 Peça ao usuário para digitar uma senha. Verifique se a senha tem pelo menos 8 caracteres usando len(). Se não tiver, imprima "Senha muito curta!".
 '''
+
